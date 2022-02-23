@@ -11,7 +11,6 @@
   |
   <img align="center" alt="Thiago-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   <img align="center" alt="Thiago-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="right" alt="Thiago-pic" height="150" style="border-radius:50px;"
 </div>
   
   ##
